@@ -13,12 +13,12 @@
 
 ## Introduction
 
+
 [自己紹介と、エンジニアとしての経験、専門分野、注目すべきプロジェクトや業績などを含む経歴を簡単に記載してください。]
 
 ## Technical Proposal
 
-[スピーカーまたは参加者として、このイベントでどのような技術的な内容を共有できるかを記載してください。たとえば、自分が作成した記事、ブログ、リポジトリ、書籍、
-またはプル リクエストへのリンクでも構いません。それはあなたが作成したものであり、他の参加者に共有してディスカッションできる内容であることが必要です。]
+ホームページへのブログ投稿・書籍を通じて共有できればと思います。
 
 ## Code Examples
 
@@ -31,7 +31,7 @@ Please indicate your preference for attending the event:
 [イベントへの参加希望を明記してください。]
 
 - [ ] Participate as a session speaker (セッションスピーカーとしての参加を希望)
-- [○] Participate in the "speed-dating" rounds (スピード デーティング ラウンドへの参加を希望)
+- [t] Participate in the "speed-dating" rounds (スピード デーティング ラウンドへの参加を希望)
 - [ ] As a participant, just publish my self-introduction page on this event
   repository (参加者として、このリポジトリで自己紹介ページを公開するのみ)
 
